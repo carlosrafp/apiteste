@@ -1,0 +1,101 @@
+{
+  "promotions": [
+    {
+      "id": 1,
+      "title": "Kit Notebook Acer Aspire 3 + Mochila Green, A315-41-R790, AMD Ryzen 3 2200U Dual Core",
+      "price": 1799,
+      "url": "",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem_url/2631517face1861bc4f46ae154d387de.png"
+    },
+    {
+      "id": 2,
+      "title": "Faqueiro Tramontina Laguna Inox - 100 Peças",
+      "price": 246.05,
+      "url": "",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/0324bf9ad81ccbc5a8e22a1a41015649.png"
+    },
+    {
+      "id": 3,
+      "title": "Tênis West Coast Marrom",
+      "price": 119.99,
+      "url": "",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/fe0a1e4ddcbd8f9a99a05908b6d29ea2.png"
+    },
+    {
+      "id": 4,
+      "title": "Fone de Ouvido Jaybird Run XT Sport Bluetooth, Cinza",
+      "price": 699.9,
+      "url": "",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem_url/9c4b176eb52bb4877e853cf36393d8fc.jpg"
+    },
+    {
+      "title": "Mala Escolar G Com Rodinhas, Pets 2, 2d, Dermiwil",
+      "url": "https://amzn.to/3onOMp2",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/6aff4f551ff67c952d0734b5310e1f49.png",
+      "price": "86.36",
+      "id": 5
+    },
+    {
+      "title": "Luva Tira Pelos - Petz",
+      "url": "https://amzn.to/2LJfASB",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/70c40261fd49a665ebde6c1aedb9b129.jpg",
+      "price": "17.99",
+      "id": 6
+    },
+    {
+      "title": "Furadeira Parafusadeira À Bateria Trevalla TL-FME-P02-7 Azul 12V - Marketplace",
+      "url": "https://amzn.to/3tMXa3V",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/0143a6bdc9071d95908db9ec3c0814fc.jpg",
+      "price": "99.01",
+      "id": 7
+    },
+    {
+      "title": "Máscara Lavável De Tecido 3m Tam. Único Uu01125343 3m Pt 1 Un",
+      "url": "https://www.kalunga.com.br/prod/mascara-lavavel-de-tecido-3m-tam-unico-uu01125343-3m-pt-1-un/549785",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/db350da79299280c8542d365e2ea4770.jpg",
+      "price": "18.62",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "userId": 1,
+      "promotionId": 4,
+      "comment": "Preco eh justo",
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "parentId": 4,
+      "comment": "verdade",
+      "promotionId": 4,
+      "id": 5
+    },
+    {
+      "userId": 2,
+      "parentId": 4,
+      "comment": "discordo",
+      "promotionId": 4,
+      "id": 9
+    },
+    {
+      "userId": 2,
+      "parentId": 9,
+      "comment": "kkkkk",
+      "promotionId": 4,
+      "id": 10
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Vinicius",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2660570?s=460&u=0272b07dc178814cbdfc62065c2ad88b95bb6b08&v=4"
+    },
+    {
+      "id": 2,
+      "name": "Mariana",
+      "avatarUrl": "https://instagram.fplu3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/93013715_652052338693625_6025388234916233216_n.jpg?tp=1&_nc_ht=instagram.fplu3-1.fna.fbcdn.net&_nc_ohc=ctt4OOpoM7EAX_eriFa&oh=9d843bdc09fa1d5a5473a98b07eef62b&oe=6079D329"
+    }
+  ]
+}
